@@ -13,4 +13,8 @@ Installation:
     git submodule init
     git submodule update
 
+To update all plugins:
+
+    git submodule foreach git pull origin master
+
 For more information, see: http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/
