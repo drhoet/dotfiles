@@ -7,9 +7,9 @@ Installation:
     ln -s ~/dotfiles/vimrc ~/.vimrc
     ln -s ~/dotfiles/minttyrc ~/.minttyrc
 
-    Switch to the `~/.vim` directory, and fetch submodules:
+    Switch to the `~/dotfiles` directory, and fetch submodules:
 
-    cd ~/.vim
+    cd ~/dotfiles
     git submodule init
     git submodule update
 
