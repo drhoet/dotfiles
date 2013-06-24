@@ -1,3 +1,10 @@
 BoldAsFont=no
 Font=Consolas for Powerline FixedD
 FontHeight=11
+CursorType=block
+OpaqueWhenFocused=yes
+Transparency=low
+ClicksPlaceCursor=no
+RightClickAction=paste
+Term=xterm-256color
+BellSound=yes
