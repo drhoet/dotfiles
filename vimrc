@@ -11,6 +11,8 @@ let g:Powerline_symbols="fancy"
 set t_Co=256
 colorscheme zenburn
 hi MatchParen ctermbg=245 ctermfg=237 cterm=bold
+"vertical split bar styling
+set fillchars+=vert:\ 
 
 "Closetag plugin, only for html and xml files
 autocmd FileType html,htmldjango,jinjahtml,eruby,mako let b:closetag_html_style=1
