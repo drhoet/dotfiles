@@ -1,14 +1,14 @@
-Installation:
+## Installation
 
     git clone https://github.com/drhoet/dotfiles.git ~/dotfiles
 
-    Create symlinks:
+Create symlinks:
 
     ln -s ~/dotfiles/vim ~/.vim
     ln -s ~/dotfiles/vimrc ~/.vimrc
     ln -s ~/dotfiles/minttyrc ~/.minttyrc
 
-    Switch to the `~/dotfiles` directory, and fetch submodules:
+Switch to the `~/dotfiles` directory, and fetch submodules:
 
     cd ~/dotfiles
     git submodule init
