@@ -4,9 +4,6 @@
 [submodule "vim/bundle/vim-sensible"]
 	path = vim/bundle/vim-sensible
 	url = https://github.com/tpope/vim-sensible
-[submodule "vim/bundle/vim-powerline"]
-	path = vim/bundle/vim-powerline
-	url = https://github.com/Lokaltog/vim-powerline
 [submodule "vim/bundle/vim-colorschemes"]
 	path = vim/bundle/vim-colorschemes
 	url = https://github.com/flazz/vim-colorschemes
@@ -34,3 +31,6 @@
 [submodule "vim/bundle/vim-surround"]
 	path = vim/bundle/vim-surround
 	url = https://github.com/tpope/vim-surround.git
+[submodule "vim/bundle/vim-airline"]
+	path = vim/bundle/vim-airline
+	url = https://github.com/bling/vim-airline
